@@ -16,7 +16,7 @@ namespace _06.IvailoKolarovMethods
             int num1 = int.Parse(Console.ReadLine());
             int number = int.Parse(Console.ReadLine());
             IsinTheArray(arr, number);
-            CompareNumbers(num1, number);
+            Console.WriteLine(CompareNumbers(num1, number)); 
         }
 
         public static void PersonalInfo (string name, int age)
