@@ -49,6 +49,6 @@ namespace _06.IvailoKolarovMethods
             Console.WriteLine("The numbers are not equal!");
             return false;
         }
-
+        //Console.WriteLine("Test");
     }
 }
