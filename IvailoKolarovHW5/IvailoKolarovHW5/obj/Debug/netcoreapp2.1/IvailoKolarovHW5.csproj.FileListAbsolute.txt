@@ -1,0 +1,11 @@
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\bin\Debug\netcoreapp2.1\IvailoKolarovHW5.deps.json
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\bin\Debug\netcoreapp2.1\IvailoKolarovHW5.runtimeconfig.json
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\bin\Debug\netcoreapp2.1\IvailoKolarovHW5.runtimeconfig.dev.json
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\bin\Debug\netcoreapp2.1\IvailoKolarovHW5.dll
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\bin\Debug\netcoreapp2.1\IvailoKolarovHW5.pdb
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\obj\Debug\netcoreapp2.1\IvailoKolarovHW5.csprojAssemblyReference.cache
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\obj\Debug\netcoreapp2.1\IvailoKolarovHW5.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\obj\Debug\netcoreapp2.1\IvailoKolarovHW5.AssemblyInfoInputs.cache
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\obj\Debug\netcoreapp2.1\IvailoKolarovHW5.AssemblyInfo.cs
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\obj\Debug\netcoreapp2.1\IvailoKolarovHW5.dll
+C:\Users\I\Desktop\SwiftAcademyGit\HomeWork5\IvailoKolarovHW5\IvailoKolarovHW5\obj\Debug\netcoreapp2.1\IvailoKolarovHW5.pdb
